@@ -4,7 +4,7 @@
 	<groupId>neil</groupId>
 	<artifactId>ast</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
+
 	<build>
 		<plugins>
 			<plugin>
@@ -74,6 +74,11 @@
 			<groupId>org.eclipse.text</groupId>
 			<artifactId>org.eclipse.text</artifactId>
 			<version>3.5.101</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>15.0</version>
 		</dependency>
 	</dependencies>
 
